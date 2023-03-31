@@ -5,7 +5,9 @@
 
 # Business Question: 
 
-Crime is on the rise in the United States and Portsmouth, Virginia, is crime as bad as media and pundits claim?
+Crime is on the rise in the United States and Portsmouth, Virginia. 
+
+Is crime as bad as media and pundits claim?
 
 
 
