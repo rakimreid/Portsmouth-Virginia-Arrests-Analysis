@@ -1,9 +1,14 @@
-# Portsmouth, Virginia Arrests
+# Portsmouth, Virginia Arrests Exploratory Data Analysis 
 
 ![image](https://user-images.githubusercontent.com/23224784/229182437-4060b05c-c1b0-4c0e-910e-cb4cc06f321c.png)
 
 
-# Business Question: Crime is on the rise in the United States and Portsmouth, Virginia, is crime as bad as media and pundits claim?
+# Business Question: 
+
+Crime is on the rise in the United States and Portsmouth, Virginia, is crime as bad as media and pundits claim?
+
+
+
 
 # The Data 
 
