@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/23224784/229182437-4060b05c-c1b0-4c0e-910e-cb4cc06f321c.png)
 
 
-# Business Question: 
+# Business Question
 
 Crime is on the rise in the United States and Portsmouth, Virginia. 
 
@@ -12,7 +12,7 @@ Is crime as bad as media and pundits claim?
 
 
 
-# The Data 
+# Data Source 
 
 The data was obtained from Portsmouth, Virginia Police Department arrest reports. Each table contains incidents for the last 45 days. The data
 contains information information about the incident and person charged. 
@@ -31,7 +31,6 @@ Case ID
 
 A feature, Race_Sex, was combined to acquire counts of race and sex together to get an individual demographic 
 count. The day of the week was added to ascertain if crimes occur on certain days or others. 
-_______________________________________________________________________________________________________________________________________________________________________
 
 # Related Resources
 
@@ -42,9 +41,7 @@ https://www2.portsmouthva.gov/ppd/ArrestIncidents/incidentsearch.aspx
 
 Offense Definitions: https://www2.portsmouthva.gov/ppd/ArrestIncidents/definitions.pdf
 
-_______________________________________________________________________________________________________________________________________________________________________
-
-# Evaluation: 
+# Evaluation
 
 The exploratory data analysis yielded interesting findings: 
 
